@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+.src img{
+    width: 300px;
+    height: 150px;
+}
+p{
+  color: rgb(136, 53, 136);
+}
+.src{
+    display: flex;
+}
+h1{
+    text-align: center;
+    color: rgb(217, 192, 240);
+    background-color: cornflowerblue;
+}
+img{
+    border: 7px double black;
+}
+iframe{
+    border: 6px solid rgb(114, 22, 111);
+   
+}
+body{
+    background-color: rgb(226, 163, 226);
+}
+.qww{
+    display: flex;
+    justify-content: center;
+}
+p{
+  color: rgb(110, 17, 110);
+  border: 1px dashed black;
+}
+
+
